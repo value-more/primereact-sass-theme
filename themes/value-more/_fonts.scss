@@ -1,0 +1,71 @@
+// Light
+@font-face {
+    font-family: 'Orkney';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Orkney Light'),
+            url('./fonts/Orkney-Light.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+            url('./fonts/Orkney-Light.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+    font-family: 'Orkney';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Orkney Light Italic'),
+            url('./fonts/Orkney-Light-Italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+            url('./fonts/Orkney-Light-Italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+// Regular
+@font-face {
+    font-family: 'Orkney';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Orkney Regular'),
+            url('./fonts/Orkney-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+            url('./fonts/Orkney-Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+    font-family: 'Orkney';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Orkney Regular Italic'),
+            url('./fonts/Orkney-Regular-Italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+            url('./fonts/Orkney-Regular-Italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+// Medium
+@font-face {
+    font-family: 'Orkney';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Orkney Medium'),
+            url('./fonts/Orkney-Medium.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+            url('./fonts/Orkney-Medium.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+    font-family: 'Orkney';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Orkney Medium Italic'),
+            url('./fonts/Orkney-Medium-Italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+            url('./fonts/Orkney-Medium-Italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+// Bold
+@font-face {
+    font-family: 'Orkney';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Orkney Bold'),
+            url('./fonts/Orkney-Bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+            url('./fonts/Orkney-Bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+    font-family: 'Orkney';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Orkney Bold Italic'),
+            url('./fonts/Orkney-Bold-Italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+            url('./fonts/Orkney-Bold-Italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
