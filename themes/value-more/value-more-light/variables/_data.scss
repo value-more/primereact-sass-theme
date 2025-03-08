@@ -1,6 +1,6 @@
 /// Background of a paginator
 /// @group data
-$paginatorBg: #ffffff;
+$paginatorBg: var(--background-color);
 
 /// Text color of a paginator
 /// @group data
@@ -72,7 +72,7 @@ $tableHeaderBorderWidth: 0 0 1px 0;
 
 /// Background of a table header
 /// @group data
-$tableHeaderBg: #f8f9fa;
+$tableHeaderBg: var(--background-color);
 
 /// Text color of a table header
 /// @group data
@@ -92,7 +92,7 @@ $tableHeaderCellPadding: 1rem 1rem;
 
 /// Background of a table header cell
 /// @group data
-$tableHeaderCellBg: #f8f9fa;
+$tableHeaderCellBg: var(--background-color);
 
 /// Text color of a table header cell
 /// @group data
@@ -148,7 +148,7 @@ $tableSortableColumnBadgeSize: 1.143rem;
 
 /// Background of a table body row
 /// @group data
-$tableBodyRowBg: #ffffff;
+$tableBodyRowBg: var(--background-color);
 
 /// Text color of a table body row
 /// @group data
@@ -184,7 +184,7 @@ $tableFooterCellPadding: 1rem 1rem;
 
 /// Background of a table footer cell
 /// @group data
-$tableFooterCellBg: #f8f9fa;
+$tableFooterCellBg: var(--background-color);
 
 /// Text color of a table footer cell
 /// @group data
@@ -223,7 +223,7 @@ $tableFooterBorderWidth: 0 0 1px 0;
 
 /// Background of a table footer
 /// @group data
-$tableFooterBg: #f8f9fa;
+$tableFooterBg: var(--background-color);
 
 /// Text color of a table footer
 /// @group data
