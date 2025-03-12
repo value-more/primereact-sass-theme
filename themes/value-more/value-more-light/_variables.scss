@@ -12,8 +12,19 @@ $colors: (
 	"white": #ffffff,
 	"grey": #7A7A7A,
 	"brown": #56423E,
+    
+	"green": #7fa366,
+	"yellow": #dac57a,
+	"cyan": #71abc2,
+	"pink": #bf6185,
+    "indigo": #4e6aa4,
+	"teal": #5eac90,
+	"orange": #d08770,
+	"bluegray": #7e8d9f,
+	"purple": #9a6796,
+
     "primary": $primaryColor
-);
+)!default;
 
 // Mandatory Designer Variables
 @import './variables/general';
